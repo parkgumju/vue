@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4717ade8-9b88-4f1e-8574-2ad6c1b8103d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-news/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/components/ToolBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/routers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/views/AskView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/views/ItemView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/views/JobsView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/views/NewsView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-news/src/views/UserView.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-news" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1ua26aN8o1CEmL9ytEyCro9nObg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-new/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../../../Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="ts.external.directory.path" value="C:\Users\박금주\AppData\Local\JetBrains\Toolbox\apps\PhpStorm\ch-0\211.7628.25\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\박금주\Desktop\금주 인프런\vue\vue-intermediate-master\vue-new\src" />
+      <recent name="C:\Users\박금주\Desktop\금주 인프런\vue\vue-intermediate-master\vue-news" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="node.exe" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../../../../../Program Files/nodejs/node.exe" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4717ade8-9b88-4f1e-8574-2ad6c1b8103d" name="Default Changelist" comment="" />
+      <created>1624889207917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624889207917</updated>
+      <workItem from="1624889214339" duration="2585000" />
+      <workItem from="1624892379337" duration="3213000" />
+      <workItem from="1625212869896" duration="1201000" />
+      <workItem from="1625443434526" duration="205000" />
+      <workItem from="1625445154461" duration="310000" />
+      <workItem from="1625706907968" duration="239000" />
+      <workItem from="1625707223179" duration="1482000" />
+      <workItem from="1625708983702" duration="4991000" />
+      <workItem from="1625722824555" duration="3273000" />
+      <workItem from="1625726842803" duration="3811000" />
+      <workItem from="1625732838313" duration="2205000" />
+      <workItem from="1625789294344" duration="16950000" />
+      <workItem from="1626068179866" duration="4154000" />
+      <workItem from="1626238647864" duration="7017000" />
+      <workItem from="1626323934037" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
